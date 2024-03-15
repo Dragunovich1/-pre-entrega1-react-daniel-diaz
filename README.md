@@ -18,7 +18,8 @@ Retro Store es una tienda en línea que ofrece una variedad de productos retro y
 
 ## Funcionalidades
 
-- **NavBar**: Barra de navegación que incluye el título "Retro Store", un listado de categorías clickeables y un icono de carrito que muestra la cantidad de elementos en el carrito.
+- **NavBar**: Barra de navegación que incluye el título "Retro Store", un listado de categorías clickeables
+- **CartWidget**: Un icono de carrito que muestra la cantidad de elementos en el carrito (por ahora con numero hardcodeado).
 - **ItemListContainer**: Contenedor principal que muestra un mensaje de bienvenida "¡Bienvenido a Retro Store!".
 - **Footer**: Pie de página que muestra el texto "Primera pre-entrega - CoderHouse - React - Daniel Diaz".
 
