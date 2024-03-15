@@ -1,8 +1,11 @@
 # Primera pre entrega - CoderHouse - React
 
 Alumno: Daniel Diaz
+
 Comisión: 54080
+
 Docente: Julio Avantt
+
 Tutores: Emanuel Acosta, Gabriel Navarro, Luis Gonzalez
 
 # Retro Store
