@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <ItemListContainer greeting="¡Bienvenido a Retro Store!" />
+      <ItemListContainer greeting="¿Listo para revivir los clásicos? Bienvenido!" />
       <Footer />
     </div>
   );
