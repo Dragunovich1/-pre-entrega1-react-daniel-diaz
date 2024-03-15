@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# Primera pre entrega - CoderHouse - React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Alumno: Daniel Diaz
+Comisión: 54080
+Docente: Julio Avantt
+Tutores: Emanuel Acosta, Gabriel Navarro, Luis Gonzalez
 
-## Available Scripts
+# Retro Store - Primera pre entrega - CoderHouse - React
 
-In the project directory, you can run:
+Bienvenido a Retro Store, una aplicación de e-commerce desarrollada con React.
 
-### `npm start`
+## Descripción del Proyecto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Retro Store es una tienda en línea que ofrece una variedad de productos retro y vintage de la tematica Gamer. Esta aplicación ha sido desarrollada como parte de la primera pre-entrega del curso de React en CoderHouse.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Funcionalidades
 
-### `npm test`
+- **NavBar**: Barra de navegación que incluye el título "Retro Store", un listado de categorías clickeables y un icono de carrito que muestra la cantidad de elementos en el carrito.
+- **ItemListContainer**: Contenedor principal que muestra un mensaje de bienvenida "¡Bienvenido a Retro Store!".
+- **Footer**: Pie de página que muestra el texto "Primera pre-entrega - CoderHouse - React - Daniel Diaz".
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Instalación
 
-### `npm run build`
+1. Clona este repositorio en tu computadora.
+2. Navega hasta el directorio del proyecto en tu terminal.
+3. Ejecuta el comando `npm install` para instalar las dependencias.
+4. Ejecuta el comando `npm start` para iniciar la aplicación en modo de desarrollo.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tecnologías Utilizadas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- React
+- Bootstrap
+- Font Awesome
